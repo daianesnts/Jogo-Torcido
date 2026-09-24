@@ -1,6 +1,6 @@
-# Jogo Torcido (Twisted Words)
+# Jogo Torcido 
 
-O **Jogo Torcido** é um jogo interativo de anagramas e rápida associação de palavras com interface gráfica 2D e efeitos sonoros imersivos. Desenvolvido para a disciplina de **Estruturas de Dados I (EDI)** da **Universidade Federal de Sergipe (UFS)**, o projeto combina lógica de programação, manipulação de arquivos e aplicação prática da **Estrutura de Dados Pilha (Stack)**.
+O **Jogo Torcido** é um jogo interativo de anagramas e rápida associação de palavras com interface gráfica 2D e efeitos sonoros imersivos. Desenvolvido no **terceiro período** de **Sistemas de Informação da Universidade Federal de Sergipe** para a disciplina de **Estruturas de Dados I**, o projeto combina lógica de programação, manipulação de arquivos e aplicação prática da **Estrutura de Dados Pilha (Stack)**.
 
 
 ## Objetivos e Dinâmica do Jogo
