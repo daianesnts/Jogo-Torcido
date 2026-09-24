@@ -1,0 +1,28 @@
+# Compilação e Binários
+build/bin/*.exe
+build/bin/Debug/
+build/bin/Release/
+build/obj/
+*.exe
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+*.depend
+
+# IDEs e Editores
+.vscode/
+.idea/
+*.layout
+*.layout.save
+*.cbp.save
+
+# Arquivos temporários, backups e documentação interna
+backup/
+docs/
+*.pdf
+*.save
+*.bak
+*.tmp
+*.log
